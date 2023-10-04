@@ -11,9 +11,9 @@ const onload = () => {
     authOptions: {
       // Use Azure Active Directory authentication.
       authType: "aad",
-      clientId: "<Your Azure Maps Client Id>",
-      aadAppId: "<Your Azure Active Directory Client Id>",
-      aadTenant: "<Your Azure Active Directory Tenant Id>"
+      clientId: "a2ede2d8-3c17-45a8-b27e-5d62e0a223d2",
+      aadAppId: "97df94a6-07df-4770-b608-afd5a5fb1f65",
+      aadTenant: "3de25f93-4523-410c-b2f4-c5b2ea7ed85b"
     }
   });
 
